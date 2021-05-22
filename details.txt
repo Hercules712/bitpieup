@@ -1,0 +1,7 @@
+cPanel URL: http://www.bitpileup.com/cpanel (or http://198.23.159.66/cpanel)
+Username: bitpileu
+Password: xG!v3e8Zx3OS+5
+*****************************************
+db : bitpileu_db
+user : bitpileu_user
+Password : M.5Bpg(dun9Z
